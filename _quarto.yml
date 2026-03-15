@@ -10,7 +10,7 @@ book:
     - index.qmd
     - part: "Premarital Coaching"
       chapters:
-      - Foxes.qmd
+      - CatchingFoxes.qmd
       - CatchingFoxes_questions.qmd
       - premarital_coaching.qmd
     - part: "BEMA"
@@ -23,8 +23,10 @@ book:
       - matthew.qmd
       - revelation.qmd
     - part: "NT Wright"
+      chapters:
       - surprised_by_hope.qmd
     - part: "Jon Tyson"
+      chapters:
       - jon_tyson.qmd
 
 
