@@ -1,0 +1,43 @@
+---
+bibliography: references.bib
+---
+
+# Roman History
+
+## Augustus Caesar (Octavian)
+
+Adopted some of Julius Caesar, assinated in 44BC.
+
+Defeated Mark Anthony and Cleopatra in maritime battle of Actium 31BC
+
+Title Augustus conferred in 27BC by Roman Senate
+
+## Tiberius Caesar
+
+Succeeded Augustus in 14AD
+
+## Caligula
+
+Succeeded Tiberius in 37 AD but was mentally unstable
+
+## Claudius
+
+Rose to power in 41 AD and invaded Britian in 43AD
+
+Expelled Jews from Rom in 29 AD
+
+## Nero
+
+Came to power in 54 AD as 17-year old stepson of Claudius
+
+Blamed Christian for Great Fire of Rome in 64AD.
+
+Paul and Peter were executed by Nero during the Romano-Jewish war of 66 AD
+
+## Vespasian
+
+Came to power in 68AD after Nero's suicde
+
+## Titus
+
+Came to power in 79AD. Destroyed the Temple in Jersulamen in 70 AD to end Jewish war
