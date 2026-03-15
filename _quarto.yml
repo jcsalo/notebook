@@ -11,11 +11,21 @@ book:
     - part: "Premarital Coaching"
       chapters:
       - Foxes.qmd
-    - part: "Second Part"
+      - CatchingFoxes_questions.qmd
+      - premarital_coaching.qmd
+    - part: "BEMA"
       chapters:
-      - intro.qmd
-      - summary.qmd
-      - references.qmd
+      - concepts.qmd
+      - tools.qmd
+      - prophets.qmd
+      - samuel_kings_chronicles.qmd
+      - roman_history.qmd
+      - matthew.qmd
+      - revelation.qmd
+    - part: "NT Wright"
+      - surprised_by_hope.qmd
+    - part: "Jon Tyson"
+      - jon_tyson.qmd
 
 
 bibliography: references.bib
