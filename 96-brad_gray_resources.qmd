@@ -1,0 +1,68 @@
+---
+bibliography: references.bib
+---
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Resources
+
+## Scripture memorization
+
+With memorization: scripture is always available and "inside"
+
+1)  Find arc and movement of the story line. Read several times
+
+2)  Memorize images of lines of scripture on the bible page
+
+3)  Speak it 7 times outloud - ready to go on to next verse
+
+4)  Break up into chunks, then repeat chunks together
+
+5)  when tricky- draw a picture or acronym (especially for lists)
+
+6)  Motions with hands to remember what's next. Muscle memory for motions
+
+7)  Memory temple
+
+Beatitudes:
+
+-   Poor in spirit (dust on head)
+-   Mourn - (tear)
+-   Humble (no nose in the air)
+-   Hungry (mouth)
+-   Merciful (no grabbing the neck)
+-   Peacemakers (hands)
+-   Persecuted (sawn in half)
+
+8)  Memory is a muscle
+
+9)  Hebrew has a cadence when reciting. Look for rhythmn and beat.
+
+10) No substitution for repetition
+
+11) Scriptures tend to be visual (Psalm 1 - Walk -\> sit -\> stand)
+
+## Communication Resources
+
+Carmine Gallo
+
+-   Talk like TED
+-   Storytellers Secret
+
+## Other Resources
+
+Church Called Tov
+
+Leaders Who Last
+
+Sticky Faith
