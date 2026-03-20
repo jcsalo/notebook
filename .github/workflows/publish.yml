@@ -36,10 +36,10 @@ jobs:
           TINYTEX_INSTALLER: TinyTeX
 
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v3
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-# Changed to publish v3 March 20
+# Changed to publish v3 March 20 but failed: return to @v2
