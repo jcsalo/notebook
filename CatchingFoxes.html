@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -335,7 +364,7 @@ ul.task-list li input[type="checkbox"] {
 <li>God controls our life and destiny</li>
 </ul>
 <blockquote class="blockquote">
-<p>II Cor 5:14 For the love of Christ&nbsp;controls us, because we have concluded this: that&nbsp;one has died for all, therefore all have died;</p>
+<p>II Cor 5:14 For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died;</p>
 </blockquote>
 <p>History does not determine who you are, but has influenced the way you think, feel, and live and have impacted your view of the world.</p>
 <p><em>Questions for Chapter 1</em></p>
@@ -370,26 +399,24 @@ ul.task-list li input[type="checkbox"] {
 <p>Ps 19:1-6 The heavens are telling of his glory</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Col 1:16-17 For by him all things were created,&nbsp;in heaven and on earth, visible and invisible, whether&nbsp;thrones or&nbsp;dominions or rulers or authorities—all things were created&nbsp;through him and for him.And&nbsp;he is before all things, and in him all things&nbsp;hold together.</p>
+<p>Col 1:16-17 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him.And he is before all things, and in him all things hold together.</p>
 </blockquote>
 <p>Our personal lives are part of God’s redemptive plan</p>
 <blockquote class="blockquote">
 <p>I Cor 10:31 Whether, then, you eat or drink or whateveryou do, do all to the glory of God</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Ephl:4-6 even as he&nbsp;chose us in him&nbsp;before the foundation of the world, that we should be&nbsp;holy and blameless before him. In love&nbsp;<sup><strong>5</strong></sup> he predestined us&nbsp;for&nbsp;adoption to himself as sons through Jesus Christ,&nbsp;according to the purpose of his will,&nbsp;<sup><strong>6</strong></sup> to the praise of his glorious grace, with which he has blessed us in&nbsp;the Beloved.</p>
+<p>Ephl:4-6 even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved.</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>I Tim 1:15-17 <sup><strong>15</strong></sup> The saying is&nbsp;trustworthy and deserving of full acceptance, that Christ Jesus&nbsp;came into the world to save sinners,&nbsp;of whom I am the foremost.&nbsp;<sup><strong>16</strong></sup> But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.&nbsp;<sup><strong>17</strong></sup> To&nbsp;the King of the ages,&nbsp;immortal,&nbsp;invisible,&nbsp;the only God,&nbsp;be honor and glory forever and ever.Amen.</p>
+<p>I Tim 1:15-17 <sup><strong>15</strong></sup> The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost. <sup><strong>16</strong></sup> But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. <sup><strong>17</strong></sup> To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever.Amen.</p>
 </blockquote>
-<p>-&gt; Paul was saved not only for his sake, but for God’s glory and eternal purposes</p>
+<p><span class="math inline">\(\Rightarrow\)</span> Paul was saved not only for his sake, but for God’s glory and eternal purposes</p>
 <blockquote class="blockquote">
-<p>Acts 17:24-28: <sup><strong>24</strong></sup> The God who made the world and everything in it, being&nbsp;Lord of heaven and earth,&nbsp;does not live in temples made by man,&nbsp;<sup><strong>25</strong></sup> nor is he served by human hands,&nbsp;as though he needed anything, since he himself&nbsp;gives to all mankind&nbsp;life and breath and everything.<sup><strong>26</strong></sup> And&nbsp;he made from one man every nation of mankind to live&nbsp;on all the face of the earth,&nbsp;having determined allotted periods and&nbsp;the boundaries of their dwelling place,&nbsp;<sup><strong>27</strong></sup> that they should seek God,&nbsp;and perhaps feel their way toward him and find him.&nbsp;Yet he is actually not far from each one of us,&nbsp;<sup><strong>28</strong></sup> for</p>
-<p>“‘In him we live and move and have our being’</p>
-<p>as even some of&nbsp;your own poets have said,</p>
-<p>“‘For we are indeed his offspring.’</p>
+<p>Acts 17:24-28: <sup><strong>24</strong></sup> The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, <sup><strong>25</strong></sup> nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything.<sup><strong>26</strong></sup> And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, <sup><strong>27</strong></sup> that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, <sup><strong>28</strong></sup> for</p>
+<p>“‘In him we live and move and have our being’ as even some of your own poets have said, “‘For we are indeed his offspring.’</p>
 </blockquote>
-<p>We are created to worship and enjoy God</p>
+<p><span class="math inline">\(\Rightarrow\)</span> We are created to worship and enjoy God</p>
 <section id="questions" class="level3" data-number="2.2.1">
 <h3 data-number="2.2.1" class="anchored" data-anchor-id="questions"><span class="header-section-number">2.2.1</span> Questions:</h3>
 <div class="line-block"><strong>Page 47 - Question #4 “What do you think it means to seek Christ and his Kingdom in your marriage?</strong>\</div>
@@ -398,13 +425,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="chapter-3" class="level2" data-number="2.3">
 <h2 data-number="2.3" class="anchored" data-anchor-id="chapter-3"><span class="header-section-number">2.3</span> Chapter 3</h2>
 <blockquote class="blockquote">
-<p>Gen 1:26-27: <sup><strong>6</strong></sup> Then God said,&nbsp;“Let us make man in our image,&nbsp;after our likeness. And&nbsp;let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”</p>
-<p><sup><strong>27</strong></sup> So God created man in his own image,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;in the image of God he created him;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;male and female he created them.</p>
+<p>Gen 1:26-27: <sup><strong>6</strong></sup> Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”</p>
+<pre><code>So God created man in his own image,
+in the image of God he created him;
+male and female he created them.</code></pre>
 </blockquote>
 <p>1) We are purposed by God to exist</p>
-<p>2: He decided in his mind to form the world anc created us in his likeness</p>
+<p>2: He decided in his mind to form the world and created us in his likeness</p>
 <p>3) God declared the creation of humans as good.</p>
 <p>=&gt; Every person has God-designed beauty - dignity</p>
 <p>Learn to seek God above all else</p>
@@ -412,12 +439,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="fallen-nature" class="level3" data-number="2.3.1">
 <h3 data-number="2.3.1" class="anchored" data-anchor-id="fallen-nature"><span class="header-section-number">2.3.1</span> FALLEN NATURE</h3>
 <p>Gen 3:6-7</p>
-<p>We revolted -&gt; humanity died</p>
+<p>We revolted <span class="math inline">\(\rightarrow\)</span> humanity died</p>
 <p>We began running from God rather than to God</p>
 <p>Sinful nature is more than a history of sin</p>
 <p>We have adopted a way of Life that devalues God and exults self placed as ruler and savior of our life.</p>
 <blockquote class="blockquote">
-<p>ROm 7:21-25: <sup><strong>21</strong></sup> So I find it to be a law that when I want to do right, evil lies close at hand.&nbsp;<sup><strong>22</strong></sup> For&nbsp;I delight in the law of God,&nbsp;in my inner being,&nbsp;<sup><strong>23</strong></sup> but I see in my members&nbsp;another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.&nbsp;<sup><strong>24</strong></sup> Wretched man that I am! Who will deliver me from&nbsp;this body of death?<sup><strong>25</strong></sup> Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.</p>
+<p>ROm 7:21-25: So I find it to be a law that when I want to do right, evil lies close at hand. For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members. Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.</p>
 </blockquote>
 <p>Who loves you enough to tell you you’re walking against Christ?</p>
 </section>
@@ -429,8 +456,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="fear---an-expression-of-worship-the-thingswe-fear-have-power-over-us" class="level4" data-number="2.3.2.2">
 <h4 data-number="2.3.2.2" class="anchored" data-anchor-id="fear---an-expression-of-worship-the-thingswe-fear-have-power-over-us"><span class="header-section-number">2.3.2.2</span> Fear - an expression of worship (The thingswe fear have power over us)</h4>
-<p>Lust &amp; Fear go</p>
-<p>hand in hand longings -&gt; fear of missing out</p>
+<p>Lust &amp; Fear go hand in hand longings fear of missing out</p>
 </section>
 <section id="futile-attempts-to-reconcile-ourselves-to-god" class="level4" data-number="2.3.2.3">
 <h4 data-number="2.3.2.3" class="anchored" data-anchor-id="futile-attempts-to-reconcile-ourselves-to-god"><span class="header-section-number">2.3.2.3</span> Futile attempts to reconcile ourselves to God</h4>
@@ -441,16 +467,15 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-number="2.3.3" class="anchored" data-anchor-id="redemption"><span class="header-section-number">2.3.3</span> REDEMPTION</h3>
 <p>Old testament provided temporary deliverance through the shedding of blood.</p>
 <blockquote class="blockquote">
-<p>Rom 3:21-22 <sup><strong>21</strong></sup> But now&nbsp;the righteousness of God&nbsp;has been manifested apart from the law, although&nbsp;the Law and the Prophets bear witness to it—&nbsp;<sup><strong>22</strong></sup> the righteousness of God&nbsp;through faith in Jesus Christ for all who believe.&nbsp;For there is no distinction:</p>
+<p>Rom 3:21-22 <sup><strong>21</strong></sup> But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— <sup><strong>22</strong></sup> the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction:</p>
 </blockquote>
 <p>Salvation is more than freedom from sin and death -&gt; New peaceful relation w/ God</p>
 <blockquote class="blockquote">
-<p>II Cor 5:14-15: <sup><strong>14</strong></sup> For the love of Christ&nbsp;controls us, because we have concluded this: that&nbsp;one has died for all, therefore all have died;&nbsp;<sup><strong>15</strong></sup> and he died for all,&nbsp;that those who live might no longer live for themselves but&nbsp;for him who for their sake died and was raised.</p>
+<p>II Cor 5:14-15: <sup><strong>14</strong></sup> For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died; <sup><strong>15</strong></sup> and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised.</p>
 </blockquote>
 </section>
 <section id="new-person" class="level3" data-number="2.3.4">
 <h3 data-number="2.3.4" class="anchored" data-anchor-id="new-person"><span class="header-section-number">2.3.4</span> NEW PERSON</h3>
-<div class="line-block">Questions: #7 What do you tend to run after for comfort, refuge, and deliverance? Do you run to sports, career, isolation, or something else?</div>
 <p>The reality of eternal life, when we consider it truthfully and often enough, controls the way that we live in this present life.</p>
 </section>
 <section id="questions-1" class="level3" data-number="2.3.5">
@@ -464,10 +489,10 @@ Page 58 - Question #7 “What do you tend to run after for comfort, refuge, or d
 <p>Do you carry a zeal for the eternal purposes of God?</p>
 <p>Purpose of Marriage</p>
 <blockquote class="blockquote">
-<p>Gen 2:18-25: <sup><strong>18</strong></sup> Then the&nbsp;Lord&nbsp;God said, “It is not good that the man should be alone;&nbsp;I will make him a helper fit for him.”&nbsp;<sup><strong>19</strong></sup> Now out of the ground the&nbsp;Lord&nbsp;God had formed every beast of the field and every bird of the heavens and&nbsp;brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.&nbsp;<sup><strong>20</strong></sup> The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him.&nbsp;<sup><strong>21</strong></sup> So the&nbsp;Lord&nbsp;God caused a&nbsp;deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.&nbsp;<sup><strong>22</strong></sup> And the rib that the&nbsp;Lord&nbsp;God had taken from the man he made&nbsp;into a woman and brought her to the man.&nbsp;<sup><strong>23</strong></sup> Then the man said,</p>
-<p>“This at last is&nbsp;bone of my bones and flesh of my flesh;<br>
-she shall be called Woman, because she was&nbsp;taken out of Man.”</p>
-<p><sup><strong>24</strong></sup> Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.&nbsp;<sup><strong>25</strong></sup> And the man and his wife were both naked and were not ashamed.</p>
+<p>Gen 2:18-25: <sup><strong>18</strong></sup> Then the Lord God said, “It is not good that the man should be alone; I will make him a helper fit for him.” <sup><strong>19</strong></sup> Now out of the ground the Lord God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name. <sup><strong>20</strong></sup> The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him. <sup><strong>21</strong></sup> So the Lord God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh. <sup><strong>22</strong></sup> And the rib that the Lord God had taken from the man he made into a woman and brought her to the man. <sup><strong>23</strong></sup> Then the man said,</p>
+<p>“This at last is bone of my bones and flesh of my flesh;<br>
+she shall be called Woman, because she was taken out of Man.”</p>
+<p><sup><strong>24</strong></sup> Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. <sup><strong>25</strong></sup> And the man and his wife were both naked and were not ashamed.</p>
 </blockquote>
 <p>Marriage doesn’t belong to the couple, but belongs to God</p>
 <p>No helper suitable for him</p>
@@ -502,7 +527,7 @@ Page 77 - Questions #5-6 Share your desires for having children or not having ch
 <p>Law as book of the covenant Ex 24:7</p>
 <p>New covenant foretold</p>
 <blockquote class="blockquote">
-<p>Jer 31:33-34 <sup><strong>33</strong></sup> For this is the covenant that I will make with the house of Israel after those days, declares the&nbsp;Lord:&nbsp;I will put my law within them, and I will write it&nbsp;on their hearts.&nbsp;And I will be their God, and they shall be my people.&nbsp;<sup><strong>34</strong></sup> And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the&nbsp;Lord,’&nbsp;for they shall all know me,&nbsp;from the least of them to the greatest, declares the&nbsp;Lord. For&nbsp;I will forgive their iniquity, and&nbsp;I will remember their sin no more.”</p>
+<p>Jer 31:33-34 <sup><strong>33</strong></sup> For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people. <sup><strong>34</strong></sup> And no longer shall each one teach his neighbor and each his brother, saying, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest, declares the Lord. For I will forgive their iniquity, and I will remember their sin no more.”</p>
 </blockquote>
 <section id="covenant" class="level3" data-number="2.5.1">
 <h3 data-number="2.5.1" class="anchored" data-anchor-id="covenant"><span class="header-section-number">2.5.1</span> COVENANT</h3>
@@ -521,14 +546,14 @@ Page 77 - Questions #5-6 Share your desires for having children or not having ch
 <p>Covenent-keeping by Grace<br>
 Problem w/ living under the law and judging our spouse under the law</p>
 <blockquote class="blockquote">
-<p>Mt 11:29-30 <sup><strong>29</strong></sup> Take my yoke upon you, and&nbsp;learn from me, for I am&nbsp;gentle and lowly in heart, and&nbsp;you will find rest for your souls.&nbsp;<sup><strong>30</strong></sup> For&nbsp;my yoke is easy, and my burden is light.</p>
+<p>Mt 11:29-30 <sup><strong>29</strong></sup> Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. <sup><strong>30</strong></sup> For my yoke is easy, and my burden is light.</p>
 </blockquote>
 <blockquote class="blockquote">
-<p>Col 3:12-13: <sup><strong>12</strong></sup> Put on then, as&nbsp;God’s chosen ones, holy and beloved,&nbsp;compassionate hearts,&nbsp;kindness,&nbsp;humility, meekness, and patience,&nbsp;<sup><strong>13</strong></sup> bearing with one another and,&nbsp;if one has a complaint against another,&nbsp;forgiving each other;&nbsp;as the Lord has forgiven you, so you also must forgive.</p>
+<p>Col 3:12-13: <sup><strong>12</strong></sup> Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience, <sup><strong>13</strong></sup> bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive.</p>
 </blockquote>
 <p>As we grasp God’s compassion for us -&gt; We have compassion for others</p>
 <blockquote class="blockquote">
-<p>Col 3:14 <sup><strong>16</strong></sup> Let&nbsp;the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom,&nbsp;singing psalms and hymns and spiritual songs,&nbsp;with thankfulness in your hearts to God.</p>
+<p>Col 3:14 <sup><strong>16</strong></sup> Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God.</p>
 </blockquote>
 <p>Divorce breaks the covenant</p>
 <p>We Enjoy and Keep Covenant with One Another by Grace</p>
@@ -537,7 +562,7 @@ Problem w/ living under the law and judging our spouse under the law</p>
 </section>
 <section id="divorce-breaks-the-covenant" class="level3" data-number="2.5.4">
 <h3 data-number="2.5.4" class="anchored" data-anchor-id="divorce-breaks-the-covenant"><span class="header-section-number">2.5.4</span> Divorce Breaks the Covenant</h3>
-<p>II Cor 5:18 : <sup><strong>18</strong></sup> All this is from God,&nbsp;who through Christ reconciled us to himself and gave us&nbsp;the ministry of reconciliation;&nbsp;<sup><strong>19</strong></sup> that is, in Christ God was reconciling^[<a href="https://www.biblegateway.com/passage/?search=2%20Corinthians%205&amp;version=ESV#fen-ESV-28880d" title="See footnote d">d</a>]^&nbsp;the world to himself,&nbsp;not counting their trespasses against them, and entrusting to us&nbsp;the message of reconciliation.&nbsp;<sup><strong>20</strong></sup> Therefore,&nbsp;we are ambassadors for Christ,&nbsp;God making his appeal through us. We implore you on behalf of Christ, be reconciled to God.&nbsp;<sup><strong>21</strong></sup> For our sake he made him to be sin&nbsp;who knew no sin, so that in him we might become&nbsp;the righteousness of God.</p>
+<p>II Cor 5:18 : <sup><strong>18</strong></sup> All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; <sup><strong>19</strong></sup> that is, in Christ God was reconciling^[<a href="https://www.biblegateway.com/passage/?search=2%20Corinthians%205&amp;version=ESV#fen-ESV-28880d" title="See footnote d">d</a>]^ the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation. <sup><strong>20</strong></sup> Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God. <sup><strong>21</strong></sup> For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.</p>
 </section>
 <section id="grace-and-law-in-marriage" class="level3" data-number="2.5.5">
 <h3 data-number="2.5.5" class="anchored" data-anchor-id="grace-and-law-in-marriage"><span class="header-section-number">2.5.5</span> Grace and Law in Marriage</h3>
@@ -553,8 +578,8 @@ Problem w/ living under the law and judging our spouse under the law</p>
 <section id="jesus-view-of-divorce" class="level3" data-number="2.6.1">
 <h3 data-number="2.6.1" class="anchored" data-anchor-id="jesus-view-of-divorce"><span class="header-section-number">2.6.1</span> Jesus’ View of Divorce</h3>
 <blockquote class="blockquote">
-<p>Matt 5:19-29: <sup><strong>3</strong></sup> And Pharisees came up to him and&nbsp;tested him by asking,&nbsp;“Is it lawful to divorce one’s wife for any cause?”&nbsp;<sup><strong>4</strong></sup> He answered,&nbsp;“Have you not read that he who created them from the beginning made them male and female,&nbsp;<sup><strong>5</strong></sup> and said,&nbsp;‘Therefore a man shall leave his father and his mother and hold fast to his wife, and&nbsp;the two shall become one flesh’?&nbsp;<sup><strong>6</strong></sup> So they are no longer two but one flesh.&nbsp;What therefore God has joined together, let not man separate.”<sup><strong>7</strong></sup> They said to him,&nbsp;“Why then did Moses command one to give a certificate of divorce and to send her away?”&nbsp;<sup><strong>8</strong></sup> He said to them,&nbsp;“Because of your&nbsp;hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so.&nbsp;<sup><strong>9</strong></sup> And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”^[<a href="https://www.biblegateway.com/passage/?search=Matthew%2019&amp;version=ESV#fen-ESV-23769a" title="See footnote a">a</a>]^</p>
-<p><sup><strong>10</strong></sup> The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.”&nbsp;<sup><strong>11</strong></sup> But he said to them,&nbsp;“Not everyone can receive this saying, but only&nbsp;those to&nbsp;whom it is given.&nbsp;<sup><strong>12</strong></sup> For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs&nbsp;for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.”</p>
+<p>Matt 5:19-29: <sup><strong>3</strong></sup> And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one’s wife for any cause?” <sup><strong>4</strong></sup> He answered, “Have you not read that he who created them from the beginning made them male and female, <sup><strong>5</strong></sup> and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? <sup><strong>6</strong></sup> So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”<sup><strong>7</strong></sup> They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?” <sup><strong>8</strong></sup> He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. <sup><strong>9</strong></sup> And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”^[<a href="https://www.biblegateway.com/passage/?search=Matthew%2019&amp;version=ESV#fen-ESV-23769a" title="See footnote a">a</a>]^</p>
+<p><sup><strong>10</strong></sup> The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.” <sup><strong>11</strong></sup> But he said to them, “Not everyone can receive this saying, but only those to whom it is given. <sup><strong>12</strong></sup> For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.”</p>
 </blockquote>
 </section>
 <section id="why-does-god-hate-divorce" class="level3" data-number="2.6.2">
@@ -756,7 +781,7 @@ Problem w/ living under the law and judging our spouse under the law</p>
 <h2 data-number="2.9" class="anchored" data-anchor-id="chapter-8---conflict"><span class="header-section-number">2.9</span> Chapter 8 - Conflict</h2>
 <p>Source of all conflict</p>
 <blockquote class="blockquote">
-<p>James 4:1-4: What causes quarrels and what causes fights among you? Is it not this, that your passions&nbsp;are&nbsp;at war within you?&nbsp;<sup><strong>2</strong></sup> You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.&nbsp;<sup><strong>3</strong></sup> You ask and do not receive, because you ask&nbsp;wrongly, to spend it on your passions.<sup><strong>4</strong></sup> You adulterous people!&nbsp;Do you not know that friendship with the world is enmity with God?&nbsp;Therefore whoever wishes to be a friend of the world makes himself an enemy of God.</p>
+<p>James 4:1-4: What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? <sup><strong>2</strong></sup> You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. <sup><strong>3</strong></sup> You ask and do not receive, because you ask wrongly, to spend it on your passions.<sup><strong>4</strong></sup> You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God.</p>
 </blockquote>
 <p>Selfish desires - fear of failure, pain, disapproval</p>
 <p>Idolatry - Desires that lead us to sin to achieve or preserve them, or sin in attitude or action when our efforts to achieve or preserve them fail. These can be good desires which outweigh our desire for God’s glory and eternal purposes.</p>
@@ -796,7 +821,7 @@ Problem w/ living under the law and judging our spouse under the law</p>
 <p>Humble yourself, and he will exalt you</p>
 <p>Mariage conflict begins with our war with God</p>
 <blockquote class="blockquote">
-<p>2 Peter 1:3-4 His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him&nbsp;who called us to^[<a href="https://www.biblegateway.com/passage/?search=2%20Peter%201&amp;version=ESV#fen-ESV-30466c" title="See footnote c">c</a>]^&nbsp;his own glory and excellence,^[<a href="https://www.biblegateway.com/passage/?search=2%20Peter%201&amp;version=ESV#fen-ESV-30466d" title="See footnote d">d</a>]<sup>&nbsp;</sup><strong>4</strong>^ by which he has granted to us his precious and very great promises, so that through them you may become&nbsp;partakers of the divine nature,&nbsp;having escaped from the corruption that is in the world because of sinful desire.&nbsp;</p>
+<p>2 Peter 1:3-4 His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to^[<a href="https://www.biblegateway.com/passage/?search=2%20Peter%201&amp;version=ESV#fen-ESV-30466c" title="See footnote c">c</a>]^ his own glory and excellence,^[<a href="https://www.biblegateway.com/passage/?search=2%20Peter%201&amp;version=ESV#fen-ESV-30466d" title="See footnote d">d</a>]^ <sup><strong>4</strong></sup> by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.</p>
 </blockquote>
 <p>cf Unforgiving servant</p>
 <p>Need hearts that love God</p>
