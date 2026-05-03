@@ -28,7 +28,7 @@ book:
     - part: "Jon Tyson"
       chapters:
       - jon_tyson.qmd
-      - man-year1.qmd
+      - man_year1.qmd
 
 
 bibliography: references.bib
