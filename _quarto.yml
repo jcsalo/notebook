@@ -21,13 +21,17 @@ book:
       - roman_history.qmd
       - matthew.qmd
       - revelation.qmd
-    - part: "NT Wright"
+    - part: "Carl Truman"
       chapters:
-      - surprised_by_hope.qmd
+      - desecration_of_man.qmd
+      - strange_new_world.qmd
     - part: "Jon Tyson"
       chapters:
       - jon_tyson.qmd
       - man_year1.qmd
+    - part: "NT Wright"
+      chapters:
+      - surprised_by_hope.qmd
 
 
 bibliography: references.bib
