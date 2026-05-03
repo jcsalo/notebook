@@ -22,6 +22,9 @@ book:
       - roman_history.qmd
       - matthew.qmd
       - revelation.qmd
+    - part: "CMDA"
+      chapters:
+      - mentorship_academy.qmd
     - part: "Carl Truman"
       chapters:
       - desecration_of_man.qmd
@@ -33,6 +36,11 @@ book:
     - part: "NT Wright"
       chapters:
       - surprised_by_hope.qmd
+    - part: "Turkey"
+      chapters:
+      - 10-turkey.qmd
+      - 14-antalya.qmd
+      - 14-colossae.qmd
 
 
 bibliography: references.bib

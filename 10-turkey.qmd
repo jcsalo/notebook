@@ -6,36 +6,36 @@ bibliography: references.bib
 
 Notes from [Walking the Text](http://walkingthetestcom) trip to Turkey September 12-24, 2021
 
--   Day 1: Tuesday 9/14
-    -   [Vaclav Museum](14-vaclav.qmd)
-    -   [Antalya Museum](14-antalya.qmd)
-    -   [Perga Muratpasa](14-perga.qmd)
--   Day 2: 9/15 Weds Gorguorta Mh (outside Yalvac). Museum
-    -   Colossae????
--   Day 3: 9/16 Thurs Denizli Frontinus Gate and Heiropolos (spring). Pamukkale Pools 12pm. Denizli 2pm
-    -   Laodicea
--   Day 4: 9/17 Fri
-    -   Philadelphia Tetrapylon Aphordisease Antik Kenti. Sean Jean Slisesi. Museum with god-fearer inscription. Sebastion reliefs (in museum). Sebastion on site 10am. Huge stadium 11am
-    -   Aphrodisias city of Marble
--   Day 5: 9/18 Sat Manisa (Vineyardn 9am). Sardis 11am.Artemis Tapinagi 12pm. Small city park Ragip Bey Mh 5pm
--   Day 6: 9/19 Sunday
-    -   Ulucamii Mh 9am.
-    -   Kurtulus Mh 9:30am.
-    -   Theater and temple to Dionysus 10am
-    -   Selcuk Mn 12:20pm.
-    -   Zafer Mn (Aesculayeon).
-    -   Pergamum
-    -   Smyrna 4pm
--   Sabbath
--   Day 8: 9/21 Tuesday
-    -   Ataturk Mh 10am.\
-    -   Mt Croessus.
-    -   Selcuk (Ephesus) museum 1pm. 2 statues of Artemis.
-    -   Ephesus Ruins (first day) Pierene
--   Day 9: 9/22 Wednesday.
-    -   St Jean Kilisesi. Focus on Revelations.
-    -   Villas in Ephesus.
--   Day 10: 9/23 Thursday. Didyma. Miletos. Priene?
+- Day 1: Tuesday 9/14
+  - [Vaclav Museum](14-vaclav.qmd)
+  - [Antalya Museum](14-antalya.qmd)
+  - [Perga Muratpasa](14-perga.qmd)
+- Day 2: 9/15 Weds Gorguorta Mh (outside Yalvac). Museum
+  - Colossae????
+- Day 3: 9/16 Thurs Denizli Frontinus Gate and Heiropolos (spring). Pamukkale Pools 12pm. Denizli 2pm
+  - Laodicea
+- Day 4: 9/17 Fri
+  - Philadelphia Tetrapylon Aphordisease Antik Kenti. Sean Jean Slisesi. Museum with god-fearer inscription. Sebastion reliefs (in museum). Sebastion on site 10am. Huge stadium 11am
+  - Aphrodisias city of Marble
+- Day 5: 9/18 Sat Manisa (Vineyardn 9am). Sardis 11am.Artemis Tapinagi 12pm. Small city park Ragip Bey Mh 5pm
+- Day 6: 9/19 Sunday
+  - Ulucamii Mh 9am.
+  - Kurtulus Mh 9:30am.
+  - Theater and temple to Dionysus 10am
+  - Selcuk Mn 12:20pm.
+  - Zafer Mn (Aesculayeon).
+  - Pergamum
+  - Smyrna 4pm
+- Sabbath
+- Day 8: 9/21 Tuesday
+  - Ataturk Mh 10am.\
+  - Mt Croessus.
+  - Selcuk (Ephesus) museum 1pm. 2 statues of Artemis.
+  - Ephesus Ruins (first day) Pierene
+- Day 9: 9/22 Wednesday.
+  - St Jean Kilisesi. Focus on Revelations.
+  - Villas in Ephesus.
+- Day 10: 9/23 Thursday. Didyma. Miletos. Priene?
 
 # Day 1
 
@@ -55,10 +55,10 @@ Alexander the Great defeats Persians
 
 301BC Battle of Ipus. After his death, kingdom was split between four generals:
 
--   Lysimacus - Western Asia Minor
--   Seleusus I Nicator - Eastern Asias Minor and North Syrin (later attacks Lysimicus)
--   Ptolemy - South Syria and Egypt
--   Cassander - Macedonia
+- Lysimacus - Western Asia Minor
+- Seleusus I Nicator - Eastern Asias Minor and North Syrin (later attacks Lysimicus)
+- Ptolemy - South Syria and Egypt
+- Cassander - Macedonia
 
 Israel alternated control by either Ptolemy or Seleusus. Antiochus IV (Seleucid) offends Jews with the abomination of desolation
 
@@ -92,67 +92,67 @@ Octavian assumes power at age 18
 
 ### Emperors
 
--   Caesar Augustus 27BC - 14AD
--   Tiberius 14AD - 37AD
--   Caligula 37AD - 41AD
--   Claudius 41AD - 54AD
--   Nero 54AD - 68AD
--   Vaspasian 68AD - 79AD
--   Titus 79AD - 81AD
--   
+- Caesar Augustus 27BC - 14AD
+- Tiberius 14AD - 37AD
+- Caligula 37AD - 41AD
+- Claudius 41AD - 54AD
+- Nero 54AD - 68AD
+- Vaspasian 68AD - 79AD
+- Titus 79AD - 81AD
+- 
 
 ### Roman Triumph
 
--   Required killing at least 5,000 enemy soldiers (civil war did not qualify)
+- Required killing at least 5,000 enemy soldiers (civil war did not qualify)
 
--   INitially could be arranged in honor of a general, but later was only used to celebrate the emperor.
+- INitially could be arranged in honor of a general, but later was only used to celebrate the emperor.
 
--   Designed to emphasize divine approval of the emperor
+- Designed to emphasize divine approval of the emperor
 
--   Order of procession:
+- Order of procession:
 
-    1)  Praetorian guard (legions were not permitted in Rome except on permission of emperor)
-    2)  Caesar dressed like a god with a purple robe, golden wreath, sceptor or reed in his hands
-    3)  Soldiers "Hail Caesar"
-    4)  Procession to Forum
-    5)  Sacrificial bull with the instrument of his death (eg hammer)
-    6)  Conclusion at Capetine Hill
-    7)  Caesar offered cup of wine as libation - poured out on head of bull
-    8)  Bull is then sacrificed
-    9)  Caesar ascends (with someone on left and right)
-    10) Look for divine sign - flock or birds or an eclipse
+  1)  Praetorian guard (legions were not permitted in Rome except on permission of emperor)
+  2)  Caesar dressed like a god with a purple robe, golden wreath, sceptor or reed in his hands
+  3)  Soldiers "Hail Caesar"
+  4)  Procession to Forum
+  5)  Sacrificial bull with the instrument of his death (eg hammer)
+  6)  Conclusion at Capetine Hill
+  7)  Caesar offered cup of wine as libation - poured out on head of bull
+  8)  Bull is then sacrificed
+  9)  Caesar ascends (with someone on left and right)
+  10) Look for divine sign - flock or birds or an eclipse
 
-    John's gospel draws parallele between triumph and crucifixion
+  John's gospel draws parallele between triumph and crucifixion
 
-    Mark 15:6
+  Mark 15:6
 
-    Mark 15:17
+  Mark 15:17
 
-    Mark 15:18
+  Mark 15:18
 
-    Mark 15:20
+  Mark 15:20
 
-    Mark 14
+  Mark 14
 
-    Mark 15:24
+  Mark 15:24
 
-    Mark 15:28
+  Mark 15:28
 
-    Mark 15:29
+  Mark 15:29
 
-    I Cor 2
+  I Cor 2
 
-    Col 2:15
+  Col 2:15
 
-    Mark 1
+  Mark 1
 
-    Priene Calendar Inscription "beginng of good news of Caesar son of God"
+  Priene Calendar Inscription "beginng of good news of Caesar son of God"
 
-    At crucifixion, no one was able to figure out true identity of Jesus, which required a Roman centurion
+  At crucifixion, no one was able to figure out true identity of Jesus, which required a Roman centurion
 
-    I Cor 4:15 Leads us as captives
+  I Cor 4:15 Leads us as captives
 
-    We are the aroma...
+  We are the aroma...
 
 ## Regions
 
@@ -186,6 +186,6 @@ Aesculapyus - God of Medicine. symbol of snake- who would shed skin and regerate
 
 Alexander the Great - Was a missionary spreading a message of Helenism
 
--   Changed culture and sports
--   Brought an individualistic mentality
--   Sex and alcohol to excess
+- Changed culture and sports
+- Brought an individualistic mentality
+- Sex and alcohol to excess
