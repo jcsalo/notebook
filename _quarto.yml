@@ -41,6 +41,13 @@ book:
       - 10-turkey.qmd
       - 14-antalya.qmd
       - 14-colossae.qmd
+      - 14-perga.qmd
+      - 14-vaclav.qmd
+      - 15b-pisdian_antioch.qmd
+      - 16_heiropolis.qmd
+      - 16b_laodicea.qmd
+      - 17_philadelphia.qmd
+      - 18a_sardis.qmd
 
 
 bibliography: references.bib
