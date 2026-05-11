@@ -17,14 +17,14 @@ Gospel is the power of God for salvation Rom 1:16
 
 Scripture allows us to :
 
--   Interpret our history truthfully
--   Respond to our history triumphantly
--   Behold the glory of Christ shining through
+- Interpret our history truthfully
+- Respond to our history triumphantly
+- Behold the glory of Christ shining through
 
 God uses our experiences for our good
 
--   Experiences do not control us
--   God controls our life and destiny
+- Experiences do not control us
+- God controls our life and destiny
 
 > II Cor 5:14 For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died;
 
@@ -32,22 +32,22 @@ History does not determine who you are, but has influenced the way you think, fe
 
 *Questions for Chapter 1*
 
--   Tell us the story of you two meeting, courting, and engagement.
+- Tell us the story of you two meeting, courting, and engagement.
 
--   Share your personal testimony
+- Share your personal testimony
 
--   *What did you learn about marriage from your family of origin that you’d like to emulate?*
+- *What did you learn about marriage from your family of origin that you’d like to emulate?*
 
--   *What would you like to do differently?*
+- *What would you like to do differently?*
 
--   How do your ancestors show up in your life?
+- How do your ancestors show up in your life?
 
--   What are some spiritual challenges of this season of your lives?
+- What are some spiritual challenges of this season of your lives?
 
 Chapter 10 discussion will be a discussion about sexual purity and intimacy. You will need to have these discussions with one aonther to be ready for marriage.
 
--   *Commitment to purity (victories, struggles)?*
--   *Have you talked about past sexual sin, abuse, involvement?*
+- *Commitment to purity (victories, struggles)?*
+- *Have you talked about past sexual sin, abuse, involvement?*
 
 > Now is the time to be honest. Hiding from people now will only make it more difficult to expose and face truth later. If you have a relevant sexual history, then please share enough of your history to bring into the light the sins and struggles that should be in the light.
 
@@ -57,9 +57,9 @@ Chapter 10 discussion will be a discussion about sexual purity and intimacy. You
 
 Framework for seeing marriage within a larger context:
 
--   Christ-centered
--   God-exalting
--   Spirit-dependent
+- Christ-centered
+- God-exalting
+- Spirit-dependent
 
 Creation- Designed to display and share his glory
 
@@ -79,9 +79,7 @@ $\Rightarrow$ Paul was saved not only for his sake, but for God's glory and eter
 
 > Acts 17:24-28: ^**24**^ The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, ^**25**^ nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything.^**26**^ And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, ^**27**^ that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, ^**28**^ for
 >
-> “‘In him we live and move and have our being’
-> as even some of your own poets have said,
-> “‘For we are indeed his offspring.’
+> “‘In him we live and move and have our being’ as even some of your own poets have said, “‘For we are indeed his offspring.’
 
 $\Rightarrow$ We are created to worship and enjoy God
 
@@ -89,7 +87,7 @@ $\Rightarrow$ We are created to worship and enjoy God
 
 What did God have in mind when he created us?
 
-**Page 47 - Question #4 “What does means to seek Christ and his Kingdom *now* in your life?  ..in your relationship?**
+**Page 47 - Question #4 “What does means to seek Christ and his Kingdom *now* in your life? ..in your relationship?**
 
 Now that you are contemplating marriage, has that answer changed for you?
 
@@ -102,21 +100,28 @@ What do you think God had in mind when he created the two of you and brought you
 What's it going to take to address this?
 
 - God needs to intervene?
+
 - My partner needs to change?
+
 - I'm with the wrong person?
+
 - It will always be this way?
 
 - $\Rightarrow$. If this is the case, it's because you are not seeking God above all else.
+
 - This exposes our lack of trust of God in this are
+
 - Marriage will *expose* sin and weakness you didn't think were there
 
 ## Chapter 3
 
 > Gen 1:26-27: ^**6**^ Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
 >
->     So God created man in his own image,
->     in the image of God he created him;
->     male and female he created them.
+> ```         
+> So God created man in his own image,
+> in the image of God he created him;
+> male and female he created them.
+> ```
 
 1: We are purposed by God to exist
 
@@ -132,12 +137,7 @@ Learn to be satisfied in Jesus
 
 ### Adam and Eve Prior to the Fall
 
->Gen 2:20 But for Adam no suitable helper was found. ^21^ So the Lord God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs and then closed up the place with flesh. ^22^ Then the Lord God made a woman from the rib he had taken out of the man, and he brought her to the man.
->^23^ The man said,
->“This is now bone of my bones and flesh of my flesh;
-she shall be called ‘woman,’ for she was taken out of man.”
->^24^ That is why a man leaves his father and mother and is united to his wife, and they become one flesh.
->^25^ Adam and his wife were both naked, and they felt no shame.
+> Gen 2:20 But for Adam no suitable helper was found. ^21^ So the Lord God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs and then closed up the place with flesh. ^22^ Then the Lord God made a woman from the rib he had taken out of the man, and he brought her to the man. ^23^ The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.” ^24^ That is why a man leaves his father and mother and is united to his wife, and they become one flesh. ^25^ Adam and his wife were both naked, and they felt no shame.
 
 - Joy
 - United
@@ -148,10 +148,7 @@ she shall be called ‘woman,’ for she was taken out of man.”
 
 Gen 3:1-20
 
->Gen 3:8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. ^9^ But the Lord God called to the man, “Where are you?”
->^10^ He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.”
->^11^ And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”
->^12^ The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.”
+> Gen 3:8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. ^9^ But the Lord God called to the man, “Where are you?” ^10^ He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.” ^11^ And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?” ^12^ The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.”
 
 - Fear
 - Shame (hiding from one another)
@@ -171,7 +168,7 @@ Sinful nature is more than a history of sin
 
 We have adopted a way of Life that devalues God and exults self placed as ruler and savior of our life.
 
-> Rom 7:21-25: So I find it to be a law that when I want to do right, evil lies close at hand.  For I delight in the law of God, in my inner being,  but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.  Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.
+> Rom 7:21-25: So I find it to be a law that when I want to do right, evil lies close at hand. For I delight in the law of God, in my inner being, but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members. Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.
 
 Who loves you enough to tell you you're walking against Christ?
 
@@ -185,7 +182,7 @@ Source of quarrels: Lusts
 
 #### Fear - an expression of worship (The thing we fear have power over us)
 
->Another expression of pride and idolatry ruling our hearts is unholy fear. Fear is always an expression of worship and deep reverence. This is one reason the Scripture calls us to fear God alone. Only God deserves our worship and deep reverence. Yet we enter the world fearingf almost everyone and everything besides Him. p53
+> Another expression of pride and idolatry ruling our hearts is unholy fear. Fear is always an expression of worship and deep reverence. This is one reason the Scripture calls us to fear God alone. Only God deserves our worship and deep reverence. Yet we enter the world fearingf almost everyone and everything besides Him. p53
 
 **Look over list of fears**
 
@@ -321,7 +318,7 @@ In Colossians 3:14–16, Paul keeps unpacking the implications of being recipien
 
 ### Divorce Breaks the Covenant
 
-II Cor 5:18 : ^**18**^ All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; ^**19**^ that is, in Christ God was reconciling^\[[d](https://www.biblegateway.com/passage/?search=2%20Corinthians%205&version=ESV#fen-ESV-28880d "See footnote d")\]^ the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation. ^**20**^ Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God. ^**21**^ For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+II Cor 5:18 : ^**18**^ All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation; ^**19**^ that is, in Christ God was reconciling\^\[[d](https://www.biblegateway.com/passage/?search=2%20Corinthians%205&version=ESV#fen-ESV-28880d "See footnote d")\]\^ the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation. ^**20**^ Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, be reconciled to God. ^**21**^ For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 
 ### Grace and Law in Marriage
 
@@ -339,7 +336,7 @@ Page 95QUote
 
 ### Jesus' View of Divorce
 
-> Matt 5:19-29: ^**3**^ And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one's wife for any cause?” ^**4**^ He answered, “Have you not read that he who created them from the beginning made them male and female, ^**5**^ and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? ^**6**^ So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”^**7**^ They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?” ^**8**^ He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. ^**9**^ And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”^\[[a](https://www.biblegateway.com/passage/?search=Matthew%2019&version=ESV#fen-ESV-23769a "See footnote a")\]^
+> Matt 5:19-29: ^**3**^ And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one's wife for any cause?” ^**4**^ He answered, “Have you not read that he who created them from the beginning made them male and female, ^**5**^ and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? ^**6**^ So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”^**7**^ They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?” ^**8**^ He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. ^**9**^ And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”\^\[[a](https://www.biblegateway.com/passage/?search=Matthew%2019&version=ESV#fen-ESV-23769a "See footnote a")\]\^
 >
 > ^**10**^ The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.” ^**11**^ But he said to them, “Not everyone can receive this saying, but only those to whom it is given. ^**12**^ For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.”
 
@@ -380,23 +377,23 @@ Eph 5:18-21: And do not get drunk with wine, for that is dissipation, but be fil
 
 Filled with the Spirit
 
--   New creation
+- New creation
 
--   Trusting/Honoring Good
+- Trusting/Honoring Good
 
--   Strengthened in his power
+- Strengthened in his power
 
--   Not ruled by worldly desire
+- Not ruled by worldly desire
 
 Results of being Filled
 
--   Speaking in psalms
+- Speaking in psalms
 
--   Singing/making melody
+- Singing/making melody
 
--   Giving thanks
+- Giving thanks
 
--   Being subject to one another
+- Being subject to one another
 
 > Eph 5:25-33 Husbands, love your wives, just as Christ also loved the church and gave himself up for her, so that He might sanctify her, having cleansed her by the washing of water with the word, that He might present to Himself the church in all her glory, having no spot or wrinkle or any such thing; but that she would be holy and blameless. So husbands ought also to love their own wives as their own bodies. He who loves his own wife loves himself; for no one ever hated his own flesh, but nourishes and cherishes it, just as Christ also does the church, because we are members of His body. For this reason a man shall leave his father and mother and shall be joined to his wife, and the two shall become one flesh. This mystery is great; but I am speaking with reference to Christ and the church. Nevertheless, each individual among you also is to love his own wife even as himself, and the wife must see to it that she respects her husband.
 
@@ -408,10 +405,10 @@ Results of being Filled
 
 > Col 3:19 Husbands love your wives and do not be embittered against them
 
--   Joyful sacrifice
--   Speaking truth in love
--   Praying for Wife
--   Confront wife's sinfulness in a gracious way
+- Joyful sacrifice
+- Speaking truth in love
+- Praying for Wife
+- Confront wife's sinfulness in a gracious way
 
 #### As his own body ...nourish and cherish...
 
@@ -423,13 +420,13 @@ Results of being Filled
 
 Weaker vessel:
 
--   Submission places XX in a vulnerable position (weakness)
+- Submission places XX in a vulnerable position (weakness)
 
--   XX role is different/distinct (suitable helper): Thoughts and reactions will be different
+- XX role is different/distinct (suitable helper): Thoughts and reactions will be different
 
--   Physical delicacy
+- Physical delicacy
 
--   Susceptibility to error
+- Susceptibility to error
 
 Fellow heirs - recognize the ways in which God speaks to and through your spouse (spiritual antennae)
 
@@ -504,15 +501,15 @@ Is this man someone you can entrust yourself?
 
 Questions:
 
--   Family of origin- How did you see your parents interacting in leading/following?
+- Family of origin- How did you see your parents interacting in leading/following?
 
--   Expectations about teamwork
+- Expectations about teamwork
 
--   How did your accepting Christ change your expectations?
+- How did your accepting Christ change your expectations?
 
--   How has the chapter challenged or encouraged your expectations?
+- How has the chapter challenged or encouraged your expectations?
 
--   What do you anticipate will be difficult?
+- What do you anticipate will be difficult?
 
 ## Chapter 8 - Conflict
 
@@ -536,9 +533,9 @@ Idolatry - Desires that lead us to sin to achieve or preserve them, or sin in at
 
 4.  Trusting in our own eyes (*vs* God's word)
 
-    -   Cain
+    - Cain
 
-    -   Jonah
+    - Jonah
 
 We can pray for good things from God but with selfish/evil motives.
 
@@ -566,7 +563,7 @@ Humble yourself, and he will exalt you
 
 Mariage conflict begins with our war with God
 
-> 2 Peter 1:3-4 His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to^\[[c](https://www.biblegateway.com/passage/?search=2%20Peter%201&version=ESV#fen-ESV-30466c "See footnote c")\]^ his own glory and excellence,^\[[d](https://www.biblegateway.com/passage/?search=2%20Peter%201&version=ESV#fen-ESV-30466d "See footnote d")\]^ ^**4**^ by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire. 
+> 2 Peter 1:3-4 His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to\^\[[c](https://www.biblegateway.com/passage/?search=2%20Peter%201&version=ESV#fen-ESV-30466c "See footnote c")\]\^ his own glory and excellence,\^\[[d](https://www.biblegateway.com/passage/?search=2%20Peter%201&version=ESV#fen-ESV-30466d "See footnote d")\]\^ ^**4**^ by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
 
 cf Unforgiving servant
 
@@ -576,9 +573,9 @@ Ask yourself: What does my heart love so strongly that I am willing to fight for
 
 Eager for forgiveness:
 
--   w/o repentance, we can cover a transgression OR confront
+- w/o repentance, we can cover a transgression OR confront
 
--   w/repentance (and confession)-\> cancel and bring restoration
+- w/repentance (and confession)-\> cancel and bring restoration
 
 > Question: When do you cover a transgression and when do you confront?
 
@@ -614,27 +611,67 @@ Render the Affection Due = Fulfill his duty to their spouse...
 
 Obstacles-
 
--   Premarital sexual Immorality
+- Premarital sexual Immorality
 
-    -   Importance of confession/repentance
-    -   Every other sin a man commits is outside the body, but the immoral man sins against his own body
+  - Importance of confession/repentance
+  - Every other sin a man commits is outside the body, but the immoral man sins against his own body
 
--   Pornography
+- Pornography
 
-    -   Job. I will make a covenant / my eyes.
-    -   Mt 5:28 Whoever looks upon a person (God is interested in pure hearts)
-    -   Prov 7:22-23
-    -   Have you had prior exposure? If so, how do you think it will affect your marriage. if not, have you thought about safeguards you can put in place?
+  - Job. I will make a covenant / my eyes.
+  - Mt 5:28 Whoever looks upon a person (God is interested in pure hearts)
+  - Prov 7:22-23
+  - Have you had prior exposure? If so, how do you think it will affect your marriage. if not, have you thought about safeguards you can put in place?
 
--   Past abuse
+- Past abuse
 
 ## Chapter 11 Financial Stewardship
 
-Joseph as archtypical steward
+For where your treasure is, there will your heart be also (Matt 6:21)
 
-Overseer... Is God's steward
+Joseph as archtypical steward - maintain and cultivate property, but don't own it.
 
-## Chapter 12 Expectations
+Overseer... Is God's steward Titus 1:7
+
+Budgets are tools
+
+Underlying key: Is Christ ruling in your heart? "The foxes that would wreak havoc in the vineyard of your marriage come in the form of pride, selfishness, fear, control, and a host of other heart conditions". Fighting over money arises from hearts that use money based upon sinful cravings and fears.
+
+Honoring Christ in our stewardship
+
+### Diligent work
+
+For you yourselves know how you ought to follow our example. We were not idle when we were with you, nor did we eat anyone's food without paying for it. On the contrary, we worked night and day, laboring and toiling so that we would not be a burden to any of you. We did this, not because we do not have the right to such help, but in order to offer ourselves as a model for you to imitate. For even when we were with you, we gave you this rule: "The one who is unwilling to work shall not eat." 2 Thess 3:7-10 NIV
+
+In what ways are you tempted to overwork (or underwork)?
+
+### Faithful Giving
+
+### Wise Preparation for the Future
+
+Proverbs: Consider the Ant
+
+Questions:
+
+Who is the spender? Who is the saver?
+
+What does it look like for you two to prioritize kingdom values in your financial stewardship as a married couple?
+
+What do you sabbath practices look like?
+
+How do your schedules differ?
+
+What is your current work/life balance?
+
+How does job stress affect you? affect your relationship?
+
+Do either of you need time alone during the week to recharge?
+
+What are your plans for time together? (3min/day, 3 hours/week, 3 days/year)
+
+Areas of struggle or opportunities for growth? Do you need help with budgeting or other financial preparations?
+
+> ## Chapter 12 Expectations
 
 1.  What did you learn from the lists?
 
@@ -644,8 +681,8 @@ Good desires vs sinful desires (*why* do we want something?) (reprise from chapt
 
 ### Two kingdoms in conflict (p 223)
 
--   Submission to the Kingdom of God
--   Kingdom of self
+- Submission to the Kingdom of God
+- Kingdom of self
 
 We are all just like Ethan. There is a war being waged in our hearts. Two kingdoms and wills are clashing. Paul was aware of this war within himself: “I find then the principle that evil is present in me, the one who wants to do good” (Rom. 7:21). He alerts us to this war in Galatians 5:17:
 
@@ -653,9 +690,9 @@ We are all just like Ethan. There is a war being waged in our hearts. Two kingdo
 
 *The battle is very real. It is costly, and it can take many forms:*
 
--   God’s glory versus my glory,
--   God’s kingdom versus my kingdom, hope set on Him versus hope set on the world,
--   treasure in heaven versus treasure on earth.
+- God’s glory versus my glory,
+- God’s kingdom versus my kingdom, hope set on Him versus hope set on the world,
+- treasure in heaven versus treasure on earth.
 
 *No matter what form it takes, this war will drastically impact our desires and, therefore, our expectations for marriage. The **real test of your heart will come when you don’t get what you want.** It will come when your spouse offends you. It will come when your mate fails to meet your expectations. After all, marriage will disappoint you. Of this you can be certain. At some point in the days ahead, your spouse will cut you off on the marriage highway. It will probably happen on a regular basis. And at those moments, the real desire of your heart will be exposed. When your spouse dishonors you, refuses sexual intimacy, shuts you out emotionally, blows the budget, or confronts sin in your life, whatever rules your heart will become more evident than ever before.*
 
@@ -665,14 +702,14 @@ Examine both our expectations AND our response when our expectations are not met
 
 *Please feel free to have expectations. Just make sure they are the right ones and that they are submitted to the right Person!*
 
--   Expect yourself to sacrifice.
--   Expect God to be faithful.
--   Expect Him to ask you to forgive your mate as He has forgiven you.
--   Expect moments of joy at the most unlikely times.
--   Expect disappointment in marriage and God’s grace to love your spouse the way that He loves you.
--   Expect to be amazed when your mate loves you far more than you actually deserve.
--   Expect your sin to create a lot of trouble, and expect to repent often.
--   Expect your enjoyment of God and of your mate to grow as you grow closer to Him.
+- Expect yourself to sacrifice.
+- Expect God to be faithful.
+- Expect Him to ask you to forgive your mate as He has forgiven you.
+- Expect moments of joy at the most unlikely times.
+- Expect disappointment in marriage and God’s grace to love your spouse the way that He loves you.
+- Expect to be amazed when your mate loves you far more than you actually deserve.
+- Expect your sin to create a lot of trouble, and expect to repent often.
+- Expect your enjoyment of God and of your mate to grow as you grow closer to Him.
 
 **Hope** (another word for expectations) - Where is our hope?
 
