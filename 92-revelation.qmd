@@ -2,12 +2,6 @@
 bibliography: references.bib
 ---
 
----
-output:
-  pdf_document: default
-  html_document: default
----
-
 # Thursday
 
 ## Angels of the Churches
