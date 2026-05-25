@@ -3,5 +3,3 @@ bibliography: references.bib
 ---
 
 # Strange New World
-
-

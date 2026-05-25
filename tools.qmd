@@ -2,6 +2,6 @@
 bibliography: references.bib
 ---
 
-# Bible Study Tools 
+# Bible Study Tools
 
 API.bible. scripture.api.bible
