@@ -12,6 +12,26 @@ book:
       - CatchingFoxes.qmd
       - CatchingFoxes_questions.qmd
       - premarital_coaching.qmd
+    - part: "BEMA"
+      chapters:
+      - concepts.qmd
+      - tools.qmd
+      - prophets.qmd
+      - samuel_kings_chronicles.qmd
+      - roman_history.qmd
+      - matthew.qmd
+      - revelation.qmd
+    - part: "CMDA"
+      chapters:
+      - mentorship_academy.qmd
+    - part: "Carl Truman"
+      chapters:
+      - desecration_of_man.qmd
+      - strange_new_world.qmd
+    - part: "Jon Tyson"
+      chapters:
+      - jon_tyson.qmd
+      - man_year1.qmd
 
 bibliography: references.bib
 
@@ -25,5 +45,3 @@ format:
 
 editor: visual
 
-
-### 3/20 add index
