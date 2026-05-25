@@ -2,7 +2,7 @@
 bibliography: references.bib
 ---
 
-# Thursday
+# Revelation
 
 ## Angels of the Churches
 
