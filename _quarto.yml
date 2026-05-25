@@ -44,6 +44,15 @@ book:
       - 14-vaclav.qmd
       - 15b-pisidian_antioch.qmd
       - 16_hieropolis.qmd
+      - 16b-laodicea.qmd
+      - 17_philadelphia.qmd
+      - 17b-aphrodisia.qmd
+      - 18a-sardis.qmd
+      - 18b-thyatira.qmd
+      - 19a-pergamum.qmd
+      - 21-ephasus.qmd
+      - 92-revelation.qmd
+      - 96-brad_gray_resources.qmd
       
 
 bibliography: references.bib
