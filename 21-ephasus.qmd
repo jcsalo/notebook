@@ -2,7 +2,7 @@
 bibliography: references.bib
 ---
 
-## Ephesus
+# Ephesus
 
 Ephesus a gateway city for Troas to the East, connecting the Aegean to Asia. Only more highly traveled area is Israel.
 
