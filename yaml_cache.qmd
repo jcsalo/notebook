@@ -2,8 +2,6 @@
 title: "Yaml_cache"
 ---
 
-```         
-
-```
-
-------------------------------------------------------------------------
+      - 21-ephasus.qmd
+      - 92-revelation.qmd
+      - 96-brad_gray_resources.qmd
